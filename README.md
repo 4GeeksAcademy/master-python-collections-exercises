@@ -33,7 +33,7 @@ This LearnPack is part of a series. We recommend completing them in order:
 
 ## One-click installation (recommended)
 
-Open in [Codespaces](https://codespaces.new/?repo=4GeeksAcademy/master-python-collections-exercises) (recommended) or [Gitpod](https://gitpod.io#https://github.com/4GeeksAcademy/master-python-collections-exercises).
+Open in [Codespaces](https://codespaces.new/?repo=4GeeksAcademy/master-python-collections-exercises).
 
 > Once VS Code is open, LearnPack should start automatically. If it doesn't, run `learnpack start` in the terminal.
 
