@@ -1,0 +1,35 @@
+{
+  "language": "python3",
+  "slug": "master-python-collections-exercises",
+  "title": {
+    "us": "Master Python: Strings and Collections",
+    "es": "Master Python: Strings y colecciones"
+  },
+  "description": {
+    "us": "20 auto-graded Python exercises to practice working with text and data collections: string methods, lists, tuples, dictionaries, sets, comprehensions, parsing and sorting.",
+    "es": "20 ejercicios autocorregidos de Python para practicar el trabajo con texto y colecciones de datos: métodos de strings, listas, tuplas, diccionarios, sets, comprehensions, parseo y ordenamiento."
+  },
+  "repository": "https://github.com/4GeeksAcademy/master-python-collections-exercises",
+  "preview": "https://raw.githubusercontent.com/4GeeksAcademy/master-python-collections-exercises/main/preview.gif",
+  "difficulty": "INTERMEDIATE",
+  "duration": 8,
+  "projectType": "exercise",
+  "grading": "isolated",
+  "localhostOnly": false,
+  "gitpod": true,
+  "technologies": [
+    "python"
+  ],
+  "bugsLink": "https://github.com/4GeeksAcademy/master-python-collections-exercises/issues/new",
+  "delivery": {
+    "instructions": "",
+    "formats": [
+      "url"
+    ],
+    "regex": ""
+  },
+  "editor": {
+    "agent": "vscode",
+    "version": "5.0"
+  }
+}
