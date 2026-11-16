@@ -5,9 +5,9 @@ Los sets admiten operaciones matemáticas:
 ```py
 a = {1, 2, 3}
 b = {2, 3, 4}
-print(a & b)  # {2, 3} intersección: en ambos
-print(a | b)  # {1, 2, 3, 4} unión: en cualquiera
-print(a - b)  # {1} diferencia: en a pero no en b
+print(a & b)  # {2, 3} intersection: in both
+print(a | b)  # {1, 2, 3, 4} union: in any of them
+print(a - b)  # {1} difference: in a but not in b
 ```
 
 ## 📝 Instrucciones:
